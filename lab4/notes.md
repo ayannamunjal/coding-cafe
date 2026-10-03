@@ -24,3 +24,21 @@ git commit produces a message showing the new commit's hash and summary of the c
 
 Question 8
 The first seven characters of a commit hash are an abbreviated commit ID (SHA-1 hash). They uniquely identify a commit within the repository and can be used to refer to that commit.
+
+Question 9
+The four steps of the repetitive Git loop are edit → stage → commit → repeat.
+
+Question 10
+README.md is the main introductory/documentation file for a repository. It is placed in the root directory so that GitHub and people viewing the repository can easily find it.
+
+Question 11
+gh auth login authenticates your computer with GitHub and stores the authentication credentials securely. After logging in, GitHub CLI can authenticate future GitHub operations without repeatedly asking for your password.
+
+Question 12
+README.md is rendered on the GitHub repository's front page because GitHub automatically displays a root-level README.md as the repository's introduction/documentation.
+
+Question 13
+git push sends your local commits to the remote GitHub repository. It does not change or create new commits in your local history; it uploads the commits that already exist locally.
+
+Question 14
+A private repository exists on GitHub but can only be accessed by you and people you explicitly give access to. No repository on GitHub means there is no remote copy of your project there at all; the Git repository may exist only on your computer.
